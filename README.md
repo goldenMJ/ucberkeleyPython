@@ -1,4 +1,5 @@
-🗿, 📜, ✂️, Shoot
+🗿 📜 ✂️
+
 Create a RPS game that takes user input from the command line and plays against the computer.
 
 Instructions:
